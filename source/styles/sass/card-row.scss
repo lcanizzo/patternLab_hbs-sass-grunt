@@ -1,0 +1,12 @@
+.card-row-component-outer {
+  border: 1px solid black;
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+.card-row_row--inner {
+  display: flex;
+  justify-content: space-between
+}

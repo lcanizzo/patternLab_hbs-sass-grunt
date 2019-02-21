@@ -1,0 +1,16 @@
+.card--basic {
+  border: 1px solid black;
+
+  width: 100%;
+  max-width: 300px;
+
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+
+  padding: 10px;
+
+  h2 {
+    border-bottom: 1px solid grey;
+  }
+}
