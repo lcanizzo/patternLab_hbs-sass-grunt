@@ -2,7 +2,7 @@
   'use strict';
   
   $(function() {
-    console.log('buttons.js loading');
+    console.log('buttons.js loading with V4');
     
     var $btnTest = $('.btn--basic');
   
