@@ -1,3 +1,7 @@
+Cloned from:
+https://github.com/pattern-lab/edition-node-grunt
+With updates.
+
 # Pattern Lab Node - Grunt Edition
 
 The Grunt wrapper around [Pattern Lab Node Core](https://github.com/pattern-lab/patternlab-node), providing tasks to interact with the core library and move supporting frontend assets.
